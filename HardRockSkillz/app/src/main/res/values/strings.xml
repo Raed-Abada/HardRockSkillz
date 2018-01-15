@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HardRockSkillz</string>
+    <string name="HardRockSkillz">HardRockSkillz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint"><font size="15">Enter password...</font></string>
+    <string name="hint2"><font size="15">Enter your name...</font></string>
+
+
+
+</resources>
